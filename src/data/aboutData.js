@@ -1,8 +1,9 @@
-import image from '../assets/images/image10.png'
+import image from '../assets/images/image10.png';
+
 export const aboutData = {
-    title: "Who I am",
-    description1: "I'm a web developer with 2+ years of experience in frontend development (Angular)",
-    description2: "I have my roots in Jharkhand, where I completed my undergraduate studies. Following that, I pursued my master’s degree at Anna University in Chennai, which provided me the opportunity to work at Caterpillar. In my free time, I enjoy exploring new technologies and enhancing my skills. This passion for continuous learning keeps me updated with industry trends and enables me to innovate in my work. I have a passion for traveling and exploring diverse cultures, which inspires my interest in innovative culinary experiences.",
-    image: 1,
-    imageUrl:image
-}
+  title: "Who I Am",
+  description1: "I am Samundar Singh, a Software Engineer with over 3 years of experience in frontend development, with a strong focus on Angular and UI architecture.",
+  description2: "Originally from Jharkhand, I completed my undergraduate education there before earning my master’s degree from Anna University, Chennai. This academic journey opened the door to my current role at Caterpillar Inc., where I contribute to building scalable and maintainable web applications. My technical expertise spans Angular, TypeScript, JavaScript, Node.js, Python (Django), RESTful APIs, and both SQL (PostgreSQL) and NoSQL (MongoDB) databases. I am deeply committed to continuous learning, open-source contribution, and creating clean, reusable components that enhance performance and user experience. Outside of work, I have a strong interest in travel and cultural exploration, which also fuels my passion for discovering innovative food experiences.",
+  image: 1,
+  imageUrl: image
+};
